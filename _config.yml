@@ -121,6 +121,9 @@ author:
       url: "https://github.com/NullableInt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/graneruddaniel/"
 
 # Site Footer
 footer:
@@ -131,6 +134,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/granerud.moira/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/graneruddaniel/"
 
 # Reading Files
 include:
