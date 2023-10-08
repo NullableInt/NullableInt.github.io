@@ -12,9 +12,7 @@
       {% endfor %}
     {% endif %}
    
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-      <li>Side bygget - {{ date }}</li>
+    <li>Side bygget - {{ site.time | date_to_long_string }}</li>
 
   </ul>
 </div>
